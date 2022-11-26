@@ -14,7 +14,7 @@
 
 ## ⭐️ Github Stats
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=suttapak&show_icons=true&theme=radical" alt="Matee Suttapak Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=suttapak&show_icons=true&theme=algolia" alt="Matee Suttapak Github Stats" />
 </div>
 
 ## 😍 Top Languages
@@ -22,7 +22,7 @@
 <div align="center">
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoachhoubi&layout=compact" alt="Matee Suttapak Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suttapak&layout=compact&theme=algolia" alt="Matee Suttapak Top Languages" />
   <br />
   <br />
   <br />
